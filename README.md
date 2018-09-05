@@ -9,6 +9,11 @@
 
 ### CSS
 
+#### Snippets
+
+- LittleSnippets.net: http://littlesnippets.net/
+- CSS Deck: http://cssdeck.com/
+
 #### Hacks
 - Micro Clearfix: http://nicolasgallagher.com/micro-clearfix-hack/
 - Vertically Align Anything: http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/
