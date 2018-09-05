@@ -11,8 +11,13 @@
 
 #### Snippets
 
+- CodePen: https://codepen.io/
 - LittleSnippets.net: http://littlesnippets.net/
 - CSS Deck: http://cssdeck.com/
+- CodeMyUI: https://codemyui.com/
+- Codepad: https://codepad.co/
+- CSS-Tricks: https://css-tricks.com/snippets/
+
 
 #### Hacks
 - Micro Clearfix: http://nicolasgallagher.com/micro-clearfix-hack/
