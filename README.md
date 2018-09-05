@@ -22,20 +22,26 @@
 - Micro Clearfix: http://nicolasgallagher.com/micro-clearfix-hack/
 - Vertically Align Anything: http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/
 
-#### Gradients
-- uiGradients: https://uigradients.com/
-- Web Gradients: https://webgradients.com/
-
 #### Typography
 - Type Scale: https://type-scale.com/
 
 #### Generators, Tools, and Utilities
+- CSS3 Generator: https://css3gen.com/
+  - Box Shadow
+  - Text Shadow
+  - Gradient
+  - Button
 - CSSMatic: https://www.cssmatic.com/box-shadow
   - Box Shadow
-  - Background Gradient
+  - Gradient
   - Border Radius
   - Noise Texture
 - WebAim Contrast Checker: https://webaim.org/resources/contrastchecker/
+
+##### Gradients
+- uiGradients: https://uigradients.com/
+- Web Gradients: https://webgradients.com/
+- ColorZilla: http://www.colorzilla.com/gradient-editor/ 
 
 ### Who to Follow
 - Jeremy Church: https://twitter.com/jeremybchurch
