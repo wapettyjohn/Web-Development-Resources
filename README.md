@@ -22,3 +22,4 @@
 
 ### Who to Follow
 - Jeremy Church: https://twitter.com/jeremybchurch
+- James Brocklehurst: https://twitter.com/mightymeta
