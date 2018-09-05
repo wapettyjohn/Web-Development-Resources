@@ -44,5 +44,8 @@
 - ColorZilla: http://www.colorzilla.com/gradient-editor/ 
 
 ### Who to Follow
+- Chris Coyier: https://twitter.com/chriscoyier
+- Paul Irish: https://twitter.com/paul_irish
+- Eric Meyer: https://twitter.com/meyerweb
 - Jeremy Church: https://twitter.com/jeremybchurch
 - James Brocklehurst: https://twitter.com/mightymeta
