@@ -44,6 +44,7 @@
 - ColorZilla: http://www.colorzilla.com/gradient-editor/ 
 
 ### Who to Follow
+- Martin Fowler: https://twitter.com/martinfowle
 - Chris Coyier: https://twitter.com/chriscoyier
 - Paul Irish: https://twitter.com/paul_irish
 - Eric Meyer: https://twitter.com/meyerweb
