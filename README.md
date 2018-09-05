@@ -5,7 +5,7 @@
 - CSS Tricks: https://css-tricks.com/
 - Smashing Magazine: https://www.smashingmagazine.com/
 
-## Frontend
+## Design + Frontend
 
 ### CSS
 
@@ -18,7 +18,6 @@
 - Codepad: https://codepad.co/
 - CSS-Tricks: https://css-tricks.com/snippets/
 
-
 #### Hacks
 - Micro Clearfix: http://nicolasgallagher.com/micro-clearfix-hack/
 - Vertically Align Anything: http://zerosixthree.se/vertical-align-anything-with-just-3-lines-of-css/
@@ -29,6 +28,14 @@
 
 #### Typography
 - Type Scale: https://type-scale.com/
+
+#### Generators, Tools, and Utilities
+- CSSMatic: https://www.cssmatic.com/box-shadow
+  - Box Shadow
+  - Background Gradient
+  - Border Radius
+  - Noise Texture
+- WebAim Contrast Checker: https://webaim.org/resources/contrastchecker/
 
 ### Who to Follow
 - Jeremy Church: https://twitter.com/jeremybchurch
