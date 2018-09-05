@@ -1,6 +1,7 @@
 # Web-Development-Resources
 
 ## Essential Websites, Magazines, and Blogs
+- A List Apart: https://alistapart.com/
 - CSS Tricks: https://css-tricks.com/
 - Smashing Magazine: https://www.smashingmagazine.com/
 
