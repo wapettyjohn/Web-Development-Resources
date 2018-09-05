@@ -1,5 +1,9 @@
 # Web-Development-Resources
 
+## Essential Websites, Magazines, and Blogs
+- CSS Tricks: https://css-tricks.com/
+- Smashing Magazine: https://www.smashingmagazine.com/
+
 ## Frontend
 
 ### CSS
