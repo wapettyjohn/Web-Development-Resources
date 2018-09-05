@@ -7,6 +7,7 @@
 
 ## Websites
 - Martin Fowler: https://martinfowler.com/
+- Chris Coyier: https://chriscoyier.net/
 
 ## Design + Frontend
 
