@@ -8,6 +8,7 @@
 ## Websites
 - Martin Fowler: https://martinfowler.com/
 - Chris Coyier: https://chriscoyier.net/
+- David Walsh: https://davidwalsh.name/
 
 ## Design + Frontend
 
@@ -54,3 +55,4 @@
 - Eric Meyer: https://twitter.com/meyerweb
 - Jeremy Church: https://twitter.com/jeremybchurch
 - James Brocklehurst: https://twitter.com/mightymeta
+- David Walsh: https://twitter.com/davidwalshblog
