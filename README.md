@@ -9,6 +9,7 @@
 - Martin Fowler: https://martinfowler.com/
 - Chris Coyier: https://chriscoyier.net/
 - David Walsh: https://davidwalsh.name/
+- Wes Bos: https://wesbos.com/
 
 ## Design + Frontend
 
@@ -56,3 +57,4 @@
 - Jeremy Church: https://twitter.com/jeremybchurch
 - James Brocklehurst: https://twitter.com/mightymeta
 - David Walsh: https://twitter.com/davidwalshblog
+- Wes Bos: https://twitter.com/wesbos
